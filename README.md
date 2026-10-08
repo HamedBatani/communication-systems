@@ -1,6 +1,6 @@
 # Communication Systems — Academic Coursework
 
-I completed this coursework at Sharif University of Technology in Fall 2025 under Dr. Mohammad Reza Pakravan. This repository brings together my written homework, Python-based computer exercises, and course project, with the original assignment statements distinguished from my submitted work.
+I completed this coursework at Sharif University of Technology in Fall 2025 under Dr. Mohammad Reza Pakravan, earning 17/20. This repository brings together my written homework, Python-based computer exercises, and course project, with the original assignment statements distinguished from my submitted work.
 
 ## Explore my work
 
